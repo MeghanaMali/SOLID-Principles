@@ -1,0 +1,1 @@
+Clients should not be forced to depend on interfaces they don’t use. Build many small, focused interfaces rather than a monolithic one .

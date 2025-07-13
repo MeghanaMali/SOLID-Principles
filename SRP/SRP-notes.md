@@ -1,0 +1,1 @@
+Every class should have one—and only one—reason to change. Separate responsibilities to improve cohesion, readability, and testability

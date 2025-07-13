@@ -1,0 +1,1 @@
+Subclass should be substituated in place of base class safely.
